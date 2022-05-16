@@ -1,0 +1,14 @@
+
+{
+    "scripts": {
+      "api_install": "cd udagram-api && npm install && cd ..",
+      "api_build": "cd udagram-api && npm run build && cd ..",
+      "api_test": "cd udagram-api && npm run test && cd ..",
+      "api_deploy": "cd udagram-api && npm run deploy && cd ..",
+      "frontend_install": "cd udagram-frontend && npm install && cd ..",
+      "frontend_build": "cd udagram-frontend && npm run build && cd ..",
+      "frontend_test": "cd udagram-frontend && npm run test && cd ..",
+      "frontend_deploy": "cd udagram-frontend && npm run deploy && cd .."
+    },
+    "devDependencies": {}
+}

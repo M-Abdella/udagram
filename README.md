@@ -65,3 +65,5 @@ The e2e tests are using Protractor and Jasmine.
 ##GITHUB
 
 https://github.com/Mohamedm-Abdella/udagram.git"# udagram"
+  
+[![CircleCI](https://circleci.com/gh/Mohamedm-Abdella/udagram.svg?style=svg)](https://circleci.com/gh/Mohamedm-Abdella/udagram)
